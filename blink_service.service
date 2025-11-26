@@ -1,0 +1,11 @@
+[Unit]
+Description = Blink LED
+After =multi-user.target
+
+[Service]
+ExecStart=/home/sel/8294/blink_bash.sh
+#ExecStop=
+user=SEL
+
+[Install]
+WantedBy=multi-user.target
