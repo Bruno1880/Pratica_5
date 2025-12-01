@@ -1,4 +1,4 @@
-*Prática 5: Configuração de Serviços no SystemD e Controle de Versão com Git*
+**Prática 5: Configuração de Serviços no SystemD e Controle de Versão com Git**
 
 **Discentes:** Bruno Henrique Corrêa Bega - 14651994 & Miguel Eduardo Bressan - 14670582
 
