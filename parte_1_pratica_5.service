@@ -1,0 +1,11 @@
+[Unit]
+Description = Blink LED
+After =multi-user.target
+
+[Service]
+ExecStart=/home/sel/8294/Parte_1_Botao_LED.py
+ExecStop=/home/sel/8294/Parte_2_COntrole_PWM.py
+user=SEL
+
+[Install]
+WantedBy=multi-user.target
