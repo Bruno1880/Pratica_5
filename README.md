@@ -16,12 +16,12 @@ Além da configuração do sistema, todo o desenvolvimento foi documentado e ver
 
 Abaixo estão as evidências do funcionamento do projeto, incluindo a montagem física e a verificação do serviço rodando no terminal.
 
-  1. Montagem Prática
+### 1. Montagem Prática
 A foto abaixo mostra o circuito da Raspberry Pi
 
-![Foto da Montagem()
+![Foto da Montagem]()
 
-  2. Status do Serviço (SystemD)
+### 2. Status do Serviço (SystemD)
 Print do terminal mostrando o comando `systemctl status` com o serviço ativo
 
 ![Status do Serviço]()
