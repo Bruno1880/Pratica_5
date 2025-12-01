@@ -1,0 +1,35 @@
+commit d42e0af13c7eca4be642daf168ed0c5ed00f3d78
+Author: Bruno1880 <bhc_bega@usp.br>
+Date:   Mon Dec 1 09:30:08 2025 -0300
+
+    adicionado readme
+
+commit 5643d51581f20152b68474511a8ddccc089bbb70
+Author: Bruno1880 <bhc_bega@usp.br>
+Date:   Mon Dec 1 09:25:42 2025 -0300
+
+    removido arquivo Parte_1_Botao_LED.py
+
+commit 3c5d0696424b0455344fc6a26467eaa3becd9090
+Author: Bruno1880 <bhc_bega@usp.br>
+Date:   Mon Dec 1 08:54:40 2025 -0300
+
+    Adicionado arquivo Controle PWM
+
+commit 44e9731d70ee75ae6112a778380a2c320142fdef
+Author: Bruno1880 <bhc_bega@usp.br>
+Date:   Mon Dec 1 08:53:47 2025 -0300
+
+    Adicionado arquivo Botão LED
+
+commit 5fbe0cf709efa05feffd0300b9d0e73c7b0b9025
+Author: Bruno1880 <bhc_bega@usp.br>
+Date:   Mon Dec 1 08:38:36 2025 -0300
+
+    Adicionado arquivo da parte 1 da pratica 5
+
+commit 5113f0721392cecdcd12e1f21a87e984a1defcd0
+Author: Bruno1880 <bhc_bega@usp.br>
+Date:   Wed Nov 26 17:34:31 2025 -0300
+
+    adicionado arquivos blink service e blink bash
