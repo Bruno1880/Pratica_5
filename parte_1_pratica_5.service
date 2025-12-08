@@ -1,5 +1,5 @@
 [Unit]
-Description = Blink LED
+Description = pratica_5_parte_1
 After =multi-user.target
 
 [Service]
