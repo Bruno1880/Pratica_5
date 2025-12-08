@@ -19,11 +19,14 @@ Abaixo estão as evidências do funcionamento do projeto, incluindo a montagem f
 ### 1. Montagem Prática
 As fotos abaixo mostram o circuito da Raspberry Pi como também a print do terminal mostrando o comando `systemctl status` com o serviço ativo
 
-![LED apagado quando o botão não é pressionado](https://drive.google.com/file/d/198mRkwrKa7omcWd5HLA5S1I4NTKZncu4/view?usp=sharing)
+![LED apagado quando o botão não é pressionado]([https://drive.google.com/file/d/198mRkwrKa7omcWd5HLA5S1I4NTKZncu4/view?usp=sharing](https://github.com/Bruno1880/Pratica_5/blob/master/botao_led_apagado.jpg))
 
-![LED acesso quando o botão é pressionado](https://drive.google.com/file/d/1c89IJZIwcXH2dzwY6cIb1dtip6BU3dhU/view?usp=sharing)
+![LED acesso quando o botão é pressionado]([https://drive.google.com/file/d/1c89IJZIwcXH2dzwY6cIb1dtip6BU3dhU/view?usp=sharing](https://github.com/Bruno1880/Pratica_5/blob/master/botao_led_acesso.jpg))
 
-![LED acendendo com o controle PWM](https://drive.google.com/file/d/1T-2nU46veEExWUUtDy7DycGkTj3UlXbd/view?usp=sharing)
-![LED apagando com o controle PWM](https://drive.google.com/file/d/1Sv0fdYbAk7HqcBIs3dtqpefdF9JGOoHd/view?usp=sharing)
+![LED apagando com o controle PWM]([https://drive.google.com/file/d/1Sv0fdYbAk7HqcBIs3dtqpefdF9JGOoHd/view?usp=sharing](https://github.com/Bruno1880/Pratica_5/blob/master/controle_pwm_apagado.jpg))
+
+![LED acendendo com o controle PWM]([https://drive.google.com/file/d/1T-2nU46veEExWUUtDy7DycGkTj3UlXbd/view?usp=sharing](https://github.com/Bruno1880/Pratica_5/blob/master/pwm_controle_acesso.jpg))
+
+
 
 
